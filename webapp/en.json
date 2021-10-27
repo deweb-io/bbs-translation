@@ -710,5 +710,6 @@
     "leaveTokenModal": {
         "title": "Are you sure?",
         "text": "Are you sure you want to leave the community?"
-    }
+    },
+    "newKeyForTest": "lalalalalla"
 }
